@@ -9,8 +9,8 @@ h1 {
 body {
     font-family: Verdana, sans-serif;
     text-align: left;
-    background-color: black;
-    color: white;
+    background-color: white;
+    color: grey;
 }
 h1, h2, h3, p {
     font-family: Helvetica;
